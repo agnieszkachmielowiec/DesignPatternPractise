@@ -1,0 +1,15 @@
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\obj\Debug\net7.0\DesignPattern.csproj.AssemblyReference.cache
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\obj\Debug\net7.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\obj\Debug\net7.0\DesignPattern.AssemblyInfoInputs.cache
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\obj\Debug\net7.0\DesignPattern.AssemblyInfo.cs
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\obj\Debug\net7.0\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\bin\Debug\net7.0\DesignPattern.exe
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\bin\Debug\net7.0\DesignPattern.deps.json
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\bin\Debug\net7.0\DesignPattern.runtimeconfig.json
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\bin\Debug\net7.0\DesignPattern.dll
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\bin\Debug\net7.0\DesignPattern.pdb
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\obj\Debug\net7.0\DesignPattern.dll
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\obj\Debug\net7.0\refint\DesignPattern.dll
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\obj\Debug\net7.0\DesignPattern.pdb
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\obj\Debug\net7.0\DesignPattern.genruntimeconfig.cache
+C:\Users\achmielowiec\RiderProjects\DesignPattern\DesignPattern\obj\Debug\net7.0\ref\DesignPattern.dll
